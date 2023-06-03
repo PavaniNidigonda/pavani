@@ -1,5 +1,5 @@
 # pavani
-Anagram Program file for Cosmic Tech Labs-IIIT Basar
+#Anagram Program file for Cosmic Tech Labs-IIIT Basar
 def anagram(l):
  l1=[]
  for i in l:
